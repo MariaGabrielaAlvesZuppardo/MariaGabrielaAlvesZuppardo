@@ -27,9 +27,5 @@ Para entrar em contato comigo acesse as minhas redes sociais:
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center">
 
-  ![Snake animation](https://github.com/MariaGabrielaAlvesZuppardo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
