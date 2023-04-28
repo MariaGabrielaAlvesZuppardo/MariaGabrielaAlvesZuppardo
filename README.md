@@ -1,29 +1,41 @@
- ## Olá eu sou Gabriela Zuppardo 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
 
-  Atualmente ando desenvolvendo projetos em Python , Java e React: 
-
-
-Para entrar em contato comigo acesse as minhas redes sociais: 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriela+Zuppardo;I'm+21+years+old;I'm+from+Brazil;I+Graduated+systems+of+internet;+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-zuppardo-5080561b9/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit
-)](mailto:gabrielazuppardo@gmail.com)
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaGabrielaAlvesZuppardo)
-#### Ferramentas e tecnologias que utilizo no meu dia a dia: 
 
-<div style ="display: inline-block"></br>
-<img aglin="center" alt="java" heigth="30" width="70" src="https://www.ifpe.edu.br/campus/palmares/noticias/divulgado-resultado-do-curso-de-extensao-em-java/javalogo.png">
-<img aglin="center" alt="python" heigth="40" width="70" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8hQGGTvkDEUH9Bgtv9YRcwhjO8mwFpd5tQA&usqp=CAU">
-<img aglin="center" alt="react" heigth="40" width="70" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png?f=webp&w=256">
-<img aglin="center" alt="git" heigth="40" width="70" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MariaGabrielaAlvesZuppardo&bg_color=000000&color=8100eb&line=c15cbb&point=93808f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+  ### Main skills:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![MySQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Spring](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MariaGabrielaAlvesZuppardo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+<div align="center"> 
+<a href="[https://instagram.com/carol_developer](https://www.instagram.com/gabizuppardo/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:gabrielamzuppardo@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriela-zuppardo-5080561b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+
+ 
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MariaGabrielaAlvesZuppardo}/count.svg" /></p> 
+<br>
 </div>
 
-#### Tecnologias e Ferramentas que estou estudando no dia a dia : 
 
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
