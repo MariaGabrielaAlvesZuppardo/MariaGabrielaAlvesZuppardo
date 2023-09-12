@@ -3,7 +3,7 @@
 
 <!-- Título e Descrição -->
 <h1 align="center">Hello, I'm Gabriela Zuppardo!</h1>
-<p align="center">"I am a Pernambucan woman, in the prime of my twenties, a researcher, fascinated by science and technology, who, through programming, tries to make her mark on the world. I am a student of Internet Systems, and this is my world. Welcome!"</p>
+<p align="center">"I am a Brazilian woman, in the prime of my twenties, a researcher, fascinated by science and technology, who, through programming, tries to make her mark on the world. I am a student of Internet Systems, and this is my world. Welcome!"</p>
 <p align="center"> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - Bill Gates</p>
 
 
@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" />&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" />&nbsp;
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&label=.NET" />&nbsp;
+
+
 </p>
 
 <!-- Estatísticas do GitHub -->
