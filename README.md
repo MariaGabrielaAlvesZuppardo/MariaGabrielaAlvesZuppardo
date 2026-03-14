@@ -37,8 +37,7 @@
 [![Databricks](https://img.shields.io/badge/Databricks-E34A27?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
 [![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Gradio](https://img.shields.io/badge/Gradio-FF6E96?style=for-the-badge&logo=gradio&logoColor=white)](https://www.gradio.app/)
+
 
 </div>
 
